@@ -4,7 +4,10 @@ const pages = [
 day:"Day 0",
 
 text:`
-<p>Dearest,
+<p>
+Friday 10th July 2026
+<br>
+Dearest,
 <br>
 I hope you are doing pretty well today babe. I know this hectic internship must be very tiring for you so I will try my best 
 to make you smile, laugh and brathe in moments where it will be difficult for you to do so.
@@ -14,10 +17,11 @@ I rarely gift you anything, so thought to give one by making this website for yo
 I love the way you smile and laugh, honey. I love those cute dimples you get when you give me a big smile. I love it.
 I love the way you look at me with those puppy eyes of yours.
 <br>
+<br>
 This website is a small gift from my side. It is a series of 30 lines(for 30 days) about me, about you, about us.
 <br>
 <br>
-*Lots oF Hugs and Kisses*
+*Lots oF Hugs and Kisses For My Prakhuuu Babyy*
 <br>
 <br>
 Yours,
