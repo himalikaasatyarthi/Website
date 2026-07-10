@@ -35,6 +35,20 @@ hehe!
 `
 },
 
+{
+day:"Day 1",
+
+text:`
+<p>Dearest,
+<br>
+hieeeee
+<br>
+Yours
+<br>
+Himalika | Kikuu </p>
+`
+},
+
 ];
 
 let current=0;
