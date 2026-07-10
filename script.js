@@ -48,7 +48,7 @@ Yours
 Himalika | Kikuu </p>
 `
 },
-
+  
 ];
 
 let current=0;
