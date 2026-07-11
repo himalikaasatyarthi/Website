@@ -45,7 +45,6 @@ Yours
 <br>
 Himalika | Kikuu </p>
 `
-   <img src="/images/Screenshot 2026-06-17 205749.png">
 },
   
 ];
