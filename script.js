@@ -48,10 +48,11 @@ Himalika | Kikuu </p>
 },
 
 {
-day:"Day 1",
+day:"Day 2",
 
 text:`
-<p> I fell in love with you again in July knowing fully well you never went out of my heart in the first place.
+<p> you know, for a long time, I was afraid to call it 'love'. what did love mean? what did 'finding somenone' mean? what did 'admiring someone' mean?
+
 <br>
 Yours
 <br>
