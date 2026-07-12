@@ -46,6 +46,18 @@ Yours
 Himalika | Kikuu </p>
 `
 },
+
+{
+day:"Day 1",
+
+text:`
+<p> I fell in love with you again in July knowing fully well you never went out of my heart in the first place.
+<br>
+Yours
+<br>
+Himalika | Kikuu </p>
+`
+},
   
 ];
 
