@@ -62,9 +62,9 @@ Sunday 12th July 2026
 Dearest,
 <br>
 you know, for a long time, I was afraid to call it 'love'. what did love mean? what did 'finding somenone' mean? what did 'admiring someone' mean?
+<br>
+<br>
 I was oblivious as to what any of these things meant and I went looking for them.
-<br>
-<br>
 whenever I thought I finally found something, somebody, I was always proved wrong. 
 I never questioned if what I looked for was something that needed to be actively 
 looked for. so, many nights were tumultuous-filled with want, filled with need.
@@ -73,9 +73,9 @@ looked for. so, many nights were tumultuous-filled with want, filled with need.
 you know, the thing with ‘needing something’ becomes so much complicated if you don’t know what you need, if you can’t pinpoint what you need. and that was the case with me.
 instead of trying to confront what i actually needed, 
 i thought all would be well if i “found somebody”. (again, what did “i found somebody” meant?) 
+<br>
+<br>
 for me, at that time, “i found somebody” meant “there is someone who can help me ignore all the insecurities and painful wounds within me and just be happy with me”.
-<br>
-<br>
 some part of “finding somebody” does mean that - you begin to overlook your darkness not because you can’t see it anymore but because the person in front of you loves
 you despite of them knowing everything about you. i wanted to find somebody that would want to look through me and not look at me.
 <br>
