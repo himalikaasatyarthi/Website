@@ -89,6 +89,46 @@ Yours
 Himalika | Kikuu </p>
 `
 },
+
+{
+day:"Day 3",
+
+text:`
+<p> 
+Monday 13th July 2026
+<br>
+Kuchuupuchuu,
+<br>
+I never thought the concept of 'finding someone', Along with the crude definition of which I had in mind, 
+Would lead me to this - lead me to you. Now that I think about it, About you, About us - everything just feels so.. surreal.
+<br>
+<br>
+I was a chaos girl, you know. All the tempest that arose in me, I seemed to cover with mental and physical exertion in the earnest. 
+I laughed a lot and I jumped around a lot; however, The mask subsides, right? when my body and mind failed to keep up with the ever-increasing demands of being all-jolly-and-happy, 
+I would spiral down. And you, love, know that. for me, This experience was new - when I was at home, I didn’t jump around or be that active so, You know, 
+It was easy to maintain that façade of being okay. Here, 
+I was dumped into a population of too many random people - All of whom seemed to manage life better.
+<br>
+<br>
+All of them had their shit together. Or at least, I thought they had. I never had an intimate friend before (excepting a few) and so the knowledge of “people were allowed to be imperfect,
+weak and are allowed to whimper and cry the days when everything weighs down on them” was not present with me. I thought that we had to be strong always; that we had to be patient always;
+that we had to be the one to be giving out love always. 
+It never really did occur to me that people who love and care for much other must need establish a duplex connection.
+<br>
+<br>
+And, Prakhar, that’s when you came in. I have always thought in my life that the movies I watch I watch at the right time. 
+I never really related that with people. But with you, for the first time I felt something different. That you were an entirely different person with views I hadn’t seen; 
+with thoughts I hadn’t thought; with love I hadn’t experienced. You felt different in the beginning. 
+I tried to keep telling myself that me being with you and maintaining the old me was possible. Safe to say, It was far from being possible.
+Either I had to remain being me and lose you, Or I had to change in ways, More than fundamental, And keep you...
+
+<br>
+<br>
+Your Love,
+<br>
+Himalika | Kikuu </p>
+`
+},
   
 ];
 
