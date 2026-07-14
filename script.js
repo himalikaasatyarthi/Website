@@ -141,9 +141,9 @@ Dear Dear,
         <br>
         Prakhar, There were times babe when I felt myself thrown at the crossroads
 in june, I did not know what I've been through but later things started to get better,
-<br>
 And in july you had seized my heart over much like the Trojans with their horse with the only exception that you
 sent me hope and love. 
+<br>
 Truth being told, back then I was an irritated person. I woke up everyday scared and trembling 
 feeling as if I will lose you any moment cause of me, though no soul lay near me in my distress but you stayed .
 <br>
