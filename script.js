@@ -131,7 +131,7 @@ Himalika | Kikuu </p>
 },
 
 {
-day:"4",
+day:"Day 4",
 
 text:`
 <p> 
@@ -141,7 +141,6 @@ Dear Dear,
         <br>
         Prakhar, There were times babe when I felt myself thrown at the crossroads
 in june, I did not know what I've been through but later things started to get better,
-<br>
 <br>
 And in july you had seized my heart over much like the Trojans with their horse with the only exception that you
 sent me hope and love. 
@@ -184,7 +183,7 @@ text:`
         <br>
 
         <p>
-        ❤️ Love your smile sing more beautifully than the some of the best songs, I've heard.
+        ❤️ Love, Your smile sing more beautifully than the some of the best songs, I've heard.
         </p>
 `
 },
