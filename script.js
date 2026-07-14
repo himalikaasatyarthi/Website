@@ -135,6 +135,26 @@ day:"Day 4",
 
 text:`
 <h1>...</h1>
+        <br>
+        
+        <div class="photo-grid">
+
+            <img src="images/photo3.jpg">
+            <img src="images/photo4.jpg">
+            <img src="images/photo5.jpg">
+
+            <img src="images/photo13.jpg">
+            <img src="images/photo16.jpg">
+            <img src="images/photo17.jpg">
+
+        </div>
+
+        <br>
+
+        <p>
+        Every picture reminds me how lucky I am to have you.
+        ❤️
+        </p>
 `
 },
 
