@@ -131,10 +131,39 @@ Himalika | Kikuu </p>
 },
 
 {
-day:"Day 4",
+day:"4",
 
 text:`
-<h1>...</h1>
+<p> 
+Tuesday 14th July 2026
+<br>
+Dear Dear,
+        <br>
+        Prakhar, There were times babe when I felt myself thrown at the crossroads
+in june, I did not know what I've been through but later things started to get better,
+<br>
+<br>
+And in july you had seized my heart over much like the Trojans with their horse with the only exception that you
+sent me hope and love. 
+Truth being told, back then I was an irritated person. I woke up everyday scared and trembling 
+feeling as if I will lose you any moment cause of me, though no soul lay near me in my distress but you stayed .
+<br>
+<br>
+I Love You My Sleepyloaf <<<3
+<br>
+<br>
+Your Love,
+<br>
+Himalika | Snowbaeeee </p>
+
+`
+},
+
+{
+day:"",
+
+text:`
+<p>^_^ Here are some photos of you and me, Because I like seeing you, I love seeiing us together.</p>
         <br>
         
         <div class="photo-grid">
@@ -155,18 +184,7 @@ text:`
         <br>
 
         <p>
-        ❤️
-        </p>
-`
-},
-
-{
-day:"",
-
-text:`
-
-        <p>
-        ...
+        ❤️ Love your smile sing more beautifully than the some of the best songs, I've heard.
         </p>
 `
 },
