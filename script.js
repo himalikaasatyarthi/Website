@@ -139,15 +139,15 @@ text:`
         
         <div class="photo-grid">
 
-            <img src="images/photo3.jpeg" width="500" height="320">
-            <img src="images/photo17.jpeg" width="120" height="120">
+            <img src="images/photo3.jpeg" width="320" height="320">
+            <img src="images/photo17.jpeg" width="320" height="320">
             <br>
-            <img src="images/photo5.jpeg" width="120" height="120">
+            3<img src="images/photo5.jpeg" width="320" height="120">
 
-            <img src="images/photo13.jpeg" width="120" height="120">
+            <img src="images/photo13.jpeg" width="320" height="320">
             <br>
-            <img src="images/photo16.jpeg" width="120" height="120">
-            <img src="images/photo4.jpeg" width="120" height="120">
+            <img src="images/photo16.jpeg" width="320" height="320">
+            <img src="images/photo4.jpeg" width="320" height="320">
            
 
         </div>
