@@ -141,9 +141,11 @@ text:`
 
             <img src="images/photo3.jpeg" width="120" height="120">
             <img src="images/photo17.jpeg" width="120" height="120">
+            <br>
             <img src="images/photo5.jpeg" width="120" height="120">
 
             <img src="images/photo13.jpeg" width="120" height="120">
+            <br>
             <img src="images/photo16.jpeg" width="120" height="120">
             <img src="images/photo4.jpeg" width="120" height="120">
            
@@ -153,7 +155,6 @@ text:`
         <br>
 
         <p>
-        Every picture reminds me how lucky I am to have you.
         ❤️
         </p>
 `
