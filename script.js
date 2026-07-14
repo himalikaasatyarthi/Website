@@ -142,7 +142,7 @@ text:`
             <img src="images/photo3.jpeg" width="320" height="320">
             <img src="images/photo17.jpeg" width="320" height="320">
             <br>
-            3<img src="images/photo5.jpeg" width="320" height="120">
+            <img src="images/photo5.jpeg" width="320" height="320">
 
             <img src="images/photo13.jpeg" width="320" height="320">
             <br>
