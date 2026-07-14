@@ -190,14 +190,40 @@ showPage();
 
 const music = document.getElementById("bgMusic");
 const musicBtn = document.getElementById("musicBtn");
-music.volume = 0.2;
+
+// Start at zero volume
+music.volume = 0;
 
 musicBtn.addEventListener("click", () => {
     if (music.paused) {
+
         music.play();
+
+        // Fade in from 0 to 20% volume
+        let volume = 0;
+        const fade = setInterval(() => {
+            if (volume < 0.2) {
+                volume += 0.01;
+                music.volume = volume;
+            } else {
+                clearInterval(fade);
+            }
+        }, 250); // Takes about 5 seconds
+
         musicBtn.textContent = "⏸ Pause Music";
+
     } else {
-        music.pause();
-        musicBtn.textContent = "🎵 Play Music";
+
+        // Fade out before pausing
+        const fade = setInterval(() => {
+            if (music.volume > 0.01) {
+                music.volume -= 0.01;
+            } else {
+                clearInterval(fade);
+                music.pause();
+                music.volume = 0;
+                musicBtn.textContent = "🎵 Play Music";
+            }
+        }, 100);
     }
 });
