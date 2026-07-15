@@ -189,7 +189,6 @@ text:`
 `
 },
 
-/*
 {
 day:"Day 5",
 
@@ -199,14 +198,30 @@ Wednesday 15th July 2026
 <br>
 Dearest,
 <br>
-...
+To be honest, I made this website only for you. I never thought I'd ever write about anyone else here.
 <br>
-Your Love,
 <br>
-Himalika | Kikuu </p>
+But yesterday, when you randomly mentioned my ex in front of Diya, it made me feel a little uncomfortable.
+I never told you about him so that he would keep coming up in conversations. 
+I only shared that part of my past as a story because I trusted you, and I thought you would simply listen and let it stay there.
+<br>
+<br>
+Sometimes I feel that maybe I shouldn't have told you about him at all. 
+Looking back, I know I made mistakes in that relationship, and whenever I think about it, 
+I end up regretting them. Whether knowingly or unknowingly, I hurt someone, and I do believe I was the one who was wrong in that relationship.
+<br>
+<br>
+I just don't like being reminded of that chapter anymore. It's something I've accepted, learned from, 
+and left behind, and I'd really appreciate it if we could leave it there too.
+<br>
+<br>
+Yours, 
+<br>
+Himalika. </p>
 `
 },
 
+/*
 {
 day:"Day 6",
 
