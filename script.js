@@ -231,7 +231,9 @@ Thursday 16th July 2026
 Dearest,
 <br>
 write to me about how was your day today? i would love to listen. i hope winds were soothing.
+<br>
 here are some songs to keep you company tonight.
+<br>
 click on a link to go to the song.
 <br>
 </p>
@@ -239,6 +241,9 @@ click on a link to go to the song.
 <a href="https://music.youtube.com/watch?v=ABFpMiKXz3o&si=n0UGnqqW96C62Ije" target="_blank">
 -> small things in your day are not small at all
 </a>
+
+<br>
+<br>
 <br>
 <p>
 Your Love,
