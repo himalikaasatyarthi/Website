@@ -248,12 +248,12 @@ text:`
         <div class="photo-grid">
 
             <img src="images/photo1.jpeg" width="320" height="320">
-            <img src="images/photo6.jpeg" width="320" height="320">
+            <img src="images/photo15.jpeg" width="320" height="320">
             <br>
             <img src="images/photo2.jpeg" width="320" height="320">
-            <img src="images/photo4.jpeg" width="320" height="320">
-            <br>
             <img src="images/photo8.jpeg" width="320" height="320">
+            <br>
+            <img src="images/photo6.jpeg" width="320" height="320">
             <img src="images/photo7.jpeg" width="320" height="320">
             <br>
             <img src="images/photo11.jpeg" width="320" height="320">
@@ -262,7 +262,7 @@ text:`
             <img src="images/photo9.jpeg" width="320" height="320">
             <img src="images/photo12.jpeg" width="320" height="320">
             <br>
-            <img src="images/photo15.jpeg" width="320" height="320">
+           
             <img src="images/photo14.jpeg" width="320" height="320">
 
         </div>
