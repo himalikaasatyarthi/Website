@@ -305,9 +305,12 @@ th July 2026
 <br>
 Dearest,
 <br>
-Lemme write 10 good things about you which I absolutely love:-
+Lemme write 2 good things about you which I absolutely love:-<br>
 1) You are really patient with my mood swings.
-2)
+<br>
+2) Your laugh calms my heart.
+<br>
+3) 
 <br>
 Your Love,
 <br>
