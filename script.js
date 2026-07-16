@@ -230,8 +230,14 @@ Thursday 16th July 2026
 <br>
 Dearest,
 <br>
-...
+write to me about how was your day today? i would love to listen. i hope winds were soothing.
+here are some songs to keep you company tonight.
+click on a link to go to the song.
 <br>
+</p>
+<a href="https://music.youtube.com/watch?v=ABFpMiKXz3o&si=n0UGnqqW96C62Ije" target="_blank">
+</a>
+<p>
 Your Love,
 <br>
 Himalika | Kikuu </p>
@@ -242,7 +248,7 @@ Himalika | Kikuu </p>
 day:"",
 
 text:`
-<p>^_^ Here are some photos of you and me, Because I like seeing you, I love seeiing us together.</p>
+<p> Here are some more pictures of us, i saw then today and just wanted to share them with you.</p>
         <br>
         
         <div class="photo-grid">
@@ -268,10 +274,6 @@ text:`
         </div>
 
         <br>
-
-        <p>
-       
-        </p>
 `
 },
 
