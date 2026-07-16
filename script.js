@@ -301,16 +301,31 @@ day:"Day 7",
 
 text:`
 <p> 
-th July 2026
+Friday 17th July 2026
 <br>
 Dearest,
 <br>
-Lemme write 2 good things about you which I absolutely love:-<br>
+Lemme write 10 good things about you which I absolutely love:-<br>
 1) You are really patient with my mood swings.
 <br>
 2) Your laugh calms my heart.
 <br>
 3) 
+<br>
+4)
+<br>
+5)
+<br>
+6)
+<br>
+7)
+<br>
+8)
+<br>
+9)
+<br>
+!0)
+<br>
 <br>
 Your Love,
 <br>
