@@ -228,11 +228,11 @@ text:`
 <p> 
 Thursday 16th July 2026
 <br>
-Dearest,
+Dear,
 <br>
-write to me about how was your day today? i would love to listen. i hope winds were soothing.
+write to me about how was your day today? I would love to listen. I hope winds were soothing.
 <br>
-here are some songs to keep you company tonight.
+Here are some songs to keep you company tonight.
 <br>
 click on a link to go to the song.
 <br>
