@@ -241,7 +241,18 @@ click on a link to go to the song.
 <a href="https://music.youtube.com/watch?v=ABFpMiKXz3o&si=n0UGnqqW96C62Ije" target="_blank">
 -> small things in your day are not small at all
 </a>
-
+<br>  
+<a href="https://music.youtube.com/watch?v=HAZJAzCshN4&si=yRL_PdbI59ywvmnj" target="_blank">
+-> sunshine, twinke star, oh i know there you are!
+</a>
+<br>
+<a href="https://music.youtube.com/watch?v=KJBbX0jzM2c&si=-H_pQy3eu5kbv1n2" target="_blank">
+-> it's there, out in the wind right now
+</a>
+<br>
+<a href="https://music.youtube.com/watch?v=YdvV-uKef_A&si=2NaUcH6futCBVy9L" target="_blank">
+-> skies are blue, those pearls above.
+</a>
 <br>
 <br>
 <br>
