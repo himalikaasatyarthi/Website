@@ -300,10 +300,32 @@ text:`
 day:"Day 7",
 
 text:`
+        
 <p> 
 Friday 17th July 2026
 <br>
-Dearest,
+Dear,
+<br>
+Heyy babe, I'm just very tired today.. I really wanted to be there today.. Sorry.. I hope you had a nice day, honey. 
+ <br>
+I really do. I hope you’ll sleep well today and when you wake up I hope ur heacdache disappears.
+<br>
+Take care :hug: :hug: :hug: lots of love, hugs and kisses. I love you very much
+        <br>
+        <br>
+Your Love,
+<br>
+Himalika | Kikuu
+</p>
+`
+},
+
+ {
+day:"",
+
+text:`
+<p> 
+Baby,
 <br>
 Lemme write 10 good things about you which I absolutely love:-<br>
 1) You are really patient with my mood swings.
@@ -333,6 +355,10 @@ Himalika | Kikuu </p>
 `
 },
 
+
+
+
+        
 /*
 {
 day:"Day 8",
