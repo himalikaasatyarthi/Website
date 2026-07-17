@@ -310,21 +310,21 @@ Lemme write 10 good things about you which I absolutely love:-<br>
 <br>
 2) Your laugh calms my heart.
 <br>
-3) 
+3) You are so sweet.
 <br>
-4)
+4) You always listen to me.
 <br>
-5)
+5) You make me happy everytime I am sad.
 <br>
-6)
+6) You don't get annoyed by me thst easily.
 <br>
-7)
+7) I enjoy with you a lot. 
 <br>
-8)
+8) I feel safe wiith you always.
 <br>
-9)
+9) You are kind-hearted.
 <br>
-10)
+10) You love me, I love you too.
 <br>
 <br>
 Your Love,
