@@ -371,7 +371,7 @@ How are you doing, love? Are you doing fine, love? no? yes?
 I’m with you in both the cases, darling. For I love you so so so very much.
 However the clouds are or are not, I am sure you’ll weather every bit of this.
 I am so sure. For you are so strong in my eyes, You are so tough in my eyes even if you aren’t in yours. 
-Keep going, sweetie. I love you so much.
+Keep going, sweetiepieeee. I love you so much.
 <br>
 (And so just you know I fixed the typo from yesterday <<<<3 )
 <br>
