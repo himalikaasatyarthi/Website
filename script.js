@@ -10,7 +10,7 @@ Friday 10th July 2026
 Dearest,
 <br>
 I hope you are doing pretty well today babe. I know this hectic internship must be very tiring for you so I will try my best 
-to make you smile, laugh and brathe in moments where it will be difficult for you to do so.
+to make you smile, laugh and breathe in moments where it will be difficult for you to do so.
 <br>
 <br>
 I rarely gift you anything, so thought to give one by making this website for you to make you smile and giggle and laugh.
@@ -338,7 +338,7 @@ Lemme write 10 good things about you which I absolutely love:-<br>
 <br>
 5) You make me happy everytime I am sad.
 <br>
-6) You don't get annoyed by me thst easily.
+6) You don't get annoyed by me that easily.
 <br>
 7) I enjoy with you a lot. 
 <br>
@@ -355,28 +355,38 @@ Himalika | Kikuu </p>
 `
 },
 
-
-
-
-        
-/*
 {
 day:"Day 8",
 
 text:`
 <p> 
-th July 2026
+Saturday 18th July 2026
 <br>
-Dearest,
+Honey,
 <br>
-...
+I hope you’re doing well. I wanted to take this note to check upon you.
+How are you doing, love? Are you doing fine, love? no? yes?
 <br>
-Your Love,
 <br>
-Himalika | Kikuu </p>
+I’m with you in both the cases, darling. For I love you so so so very much.
+However the clouds are or are not, I am sure you’ll weather every bit of this.
+I am so sure. For you are so strong in my eyes, You are so tough in my eyes even if you aren’t in yours. 
+Keep going, sweetie. I love you so much.
+<br>
+(And so just you know I fixed the typo from yesterday <<<<3 )
+<br>
+<br>
+I will call you my love and you can call me…
+<br>
+<br>
+Your love,
+<br>
+Himalika.
+</p>
 `
 },
 
+/*
 {
 day:"Day 9",
 
