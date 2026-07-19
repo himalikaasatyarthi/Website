@@ -448,6 +448,22 @@ text:`
 `
 },
 
+{
+    day: "",
+
+    text: `
+        <video controls width="100%" style="border-radius:15px;">
+            <source src="images/video1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+
+        <p style="margin-top:15px;">
+            yaya okk <br>
+            my day :)
+        </p>
+    `
+},
+        
 /*
 {
 day:"Day 10",
