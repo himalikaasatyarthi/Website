@@ -342,7 +342,7 @@ Lemme write 10 good things about you which I absolutely love:-<br>
 <br>
 7) I enjoy with you a lot. 
 <br>
-8) I feel safe wiith you always.
+8) I feel safe with you always.
 <br>
 9) You are kind-hearted.
 <br>
@@ -386,24 +386,34 @@ Himalika.
 `
 },
 
-/*
 {
 day:"Day 9",
 
 text:`
 <p> 
-th July 2026
+Sunday 19th July 2026
 <br>
-Dearest,
+Dear,
 <br>
-...
+I saw you today. peeping through the side. I saw you there sitting in a black collar t shirt. 
+Playing with cats, I was scared of em that is different otherwise it was really an amazing day with you.
+Funny it is how every time I still get a little tingly when I see you, when I see your face.
 <br>
-Your Love,
+Even if i don’t like myself very much, 
+I still smile warmly at me trying to make you smile. Trying to make you happy. Love reciprocates.
 <br>
-Himalika | Kikuu </p>
+(I have corrected the spelling of with)
+<br>
+<br>
+I hope the night is kind and I hope along with cats and love you hold in your thoughts…
+<br>
+Me, Who is yours,
+<br>
+Himalika </p>
 `
 },
 
+/*
 {
 day:"Day 10",
 
