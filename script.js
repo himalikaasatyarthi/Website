@@ -448,6 +448,23 @@ text:`
 `
 },
 
+{
+day:"",
+
+text:`
+`
+<video controls width="100%" style="border-radius:15px;">
+    <source src="images/video1.mp4" type="video/mp4">
+   yaya okk
+</video>
+
+<p style="margin-top:15px;">
+   my day :)
+</p>
+`
+},
+
+
 
 /*
 {
