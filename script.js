@@ -413,6 +413,43 @@ Himalika </p>
 `
 },
 
+{
+day:"",
+        
+text:`
+<p>Some visuals of how the best part of my day looked today :)</p>
+        <br>
+        
+        <div class="photo-grid">
+
+            <img src="images/photo18.jpeg" width="320" height="320">
+            <img src="images/photo19.jpeg" width="320" height="320">
+            <br>
+            <img src="images/photo20.jpeg" width="320" height="320">
+            <img src="images/photo21.jpeg" width="320" height="320">
+            <br>
+            <img src="images/photo21.jpeg" width="320" height="320">
+            <img src="images/photo22.jpeg" width="320" height="320">
+            <br>
+            <img src="images/photo23.jpeg" width="320" height="320">
+            <img src="images/photo24.jpeg" width="320" height="320">
+            <br>
+            <img src="images/photo25.jpeg" width="320" height="320">
+            <img src="images/photo26.jpeg" width="320" height="320">
+            <br>
+            <img src="images/photo27.jpeg" width="320" height="320">
+            <img src="images/photo28.jpeg" width="320" height="320">
+            <br>
+            <img src="images/photo29.jpeg" width="320" height="320">
+            <img src="images/photo30.jpeg" width="320" height="320">
+
+        </div>
+
+        <br>
+`
+},
+
+
 /*
 {
 day:"Day 10",
