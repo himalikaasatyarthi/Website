@@ -428,19 +428,18 @@ text:`
             <img src="images/photo20.jpeg" width="320" height="320">
             <img src="images/photo21.jpeg" width="320" height="320">
             <br>
-            <img src="images/photo21.jpeg" width="320" height="320">
             <img src="images/photo22.jpeg" width="320" height="320">
-            <br>
             <img src="images/photo23.jpeg" width="320" height="320">
+            <br>
             <img src="images/photo24.jpeg" width="320" height="320">
-            <br>
             <img src="images/photo25.jpeg" width="320" height="320">
+            <br>
             <img src="images/photo26.jpeg" width="320" height="320">
-            <br>
             <img src="images/photo27.jpeg" width="320" height="320">
-            <img src="images/photo28.jpeg" width="320" height="320">
             <br>
+            <img src="images/photo28.jpeg" width="320" height="320">
             <img src="images/photo29.jpeg" width="320" height="320">
+            <br>
             <img src="images/photo30.jpeg" width="320" height="320">
 
         </div>
