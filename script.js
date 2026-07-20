@@ -464,24 +464,30 @@ text:`
     `
 },
         
-/*
 {
 day:"Day 10",
 
 text:`
 <p> 
-th July 2026
+Monday 20th July 2026
 <br>
-Dearest,
+Dear,
 <br>
-...
+OMGGGGGG Prakhar, Im just so hapieeee so so soooooo happieeee to meet you tomorrow <<<<< 3 
+Much love and hugs ^-^ can’t wait to see you tomorrow and give you all the love I have for you ^-^ lots of love < 3
+<br>
+<br>
+I Love You
+<br>
+Bye Babyyy
 <br>
 Your Love,
 <br>
-Himalika | Kikuu </p>
+Himalika </p>
 `
 },
 
+/*
 {
 day:"Day 11",
 
