@@ -477,11 +477,7 @@ OMGGGGGG Prakhar, Im just so hapieeee so so soooooo happieeee to meet you tomorr
 Much love and hugs ^-^ can’t wait to see you tomorrow and give you all the love I have for you ^-^ lots of love < 3
 <br>
 <br>
-I Love You
-<br>
-Bye Babyyy
-<br>
-<br>
+I Love You, Bye Babyyy
 <br>
 <br>
 Your Love,
