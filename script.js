@@ -486,17 +486,17 @@ Himalika </p>
 `
 },
 
-/*
 {
 day:"Day 11",
 
 text:`
 <p> 
-th July 2026
+Tuesday 21st July 2026
 <br>
 Dearest,
 <br>
-...
+I hope your day was good. I hope you liked the time we spent together today. And as always, I hope you love me cause I love you so muchh.
+<br>
 <br>
 Your Love,
 <br>
@@ -504,6 +504,7 @@ Himalika | Kikuu </p>
 `
 },
 
+/*
 {
 day:"Day 12",
 
