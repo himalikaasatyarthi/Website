@@ -514,11 +514,16 @@ Wednesday 22nd July 2026
 Dearest,
 <br>
 Sorry babeeeeeeeeee, I went to chhavi's function today, so I got a little... uhm, actually, really late updating today's entry.
-Today was nice, and I hope yours was good too. I'm sorry we couldn't talk much today, I was a bit busy but I really missed you so much today and love you.
+Today was nice, and I hope yours was good too. 
+<br>
+I'm sorry we couldn't talk much today, I was a bit busy but I really missed you so much today and love you.
+<br>
 <br>
 I'm sorry Baby ❤️
 <br>
+<br>
 Take care and lots of rest. Goodnight, pie.
+<br>
 <br>
 Your Babygirl,
 <br>
