@@ -504,24 +504,29 @@ Himalika | Kikuu </p>
 `
 },
 
-/*
 {
 day:"Day 12",
 
 text:`
 <p> 
-th July 2026
+Wednesday 22nd July 2026
 <br>
 Dearest,
 <br>
-...
+Sorry babeeeeeeeeee, I went to chhavi's function today, so I got a little... uhm, actually, really late updating today's entry.
+Today was nice, and I hope yours was good too. I'm sorry we couldn't talk much today, I was a bit busy but I really missed you so much today and love you.
 <br>
-Your Love,
+I'm sorry Baby ❤️
 <br>
-Himalika | Kikuu </p>
+Take care and lots of rest. Goodnight, pie.
+<br>
+Your Babygirl,
+<br>
+Himalika </p>
 `
 },
-
+        
+/*
 {
 day:"Day 13",
 
