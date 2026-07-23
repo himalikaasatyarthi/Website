@@ -531,24 +531,25 @@ Himalika </p>
 `
 },
         
-/*
 {
 day:"Day 13",
 
 text:`
 <p> 
-th July 2026
+Thursday 23rd July 2026
 <br>
 Dearest,
 <br>
-...
+Hope you had a good day. Take care, Goodnight :Hug: :Hug: :Hug:
+<br>
 <br>
 Your Love,
 <br>
-Himalika | Kikuu </p>
+Snowbae</p>
 `
 },
 
+/*
 {
 day:"Day 14",
 
