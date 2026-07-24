@@ -549,24 +549,32 @@ Snowbae</p>
 `
 },
 
-/*
 {
 day:"Day 14",
 
 text:`
 <p> 
-th July 2026
+Friday 24th July 2026
 <br>
 Dearest,
 <br>
-...
+I was just sitting here, talking to you, when this suddenly came to my mind, so I thought I'd write it down.
+I usually update the website at night, but I didn't want to forget this.
+I honestly don't remember the last time I laughed so openly and so freely the way I did when I was with you. 
+<br>
+Lying in your lap while we were making fun of the Asia continent still makes me smile. That moment felt so warm, so safe, and it made me genuinely happy.
+I loved that moment so much.
+<br>
+        <br>
+I love you so much, and I miss you so much. I really do. I love you a lot. ❤️
+<br>
 <br>
 Your Love,
 <br>
 Himalika | Kikuu </p>
 `
 },
-
+/*
 {
 day:"Day 15",
 
