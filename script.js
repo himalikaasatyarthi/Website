@@ -566,12 +566,12 @@ Lying in your lap while we were making fun of the Asia continent still makes me 
 I loved that moment so much.
 <br>
         <br>
-I love you so much, and I miss you so much. I really do. I love you a lot. ❤️
+I love you so much, and I miss you so much. I really do. I love you a lot. 
 <br>
 <br>
 Your Love,
 <br>
-Himalika | Kikuu </p>
+Himalika </p>
 `
 },
 /*
