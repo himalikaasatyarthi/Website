@@ -588,8 +588,8 @@ Love,
 Heyy, Babbyyyyyy, I really haven’t been getting time due to severe cramps these days to sit down and write all that I want to but that doesn’t mean I hope any less for you.
 <br>
 <br>
-Please stop skipping your meals like you did today babe have it properly, I hope you don’t skip your meals next time se, Promise? me pie and also that you have water regularly.
-Stay hydrated.
+Please stop skipping your meals like you did today babe have it properly, I hope you don’t skip your meals next time se, Promise? me pie and 
+also that you have water regularly. Stay hydrated.
 <br>
 I want to tell you that sometimes things gets bit cold but they will get better eventually Honey, they will. 
 Please trust me. Please just keep hope and go on. please do. 
@@ -599,10 +599,10 @@ I really do look forward to seeing my munchkin... cutiepie... kuchupuchu... agai
 <br>
 Goodnightt baby, Take care.  
 <br>
-        <br>
-        Lots of Love, kisses and hugs, Prakhuuu darling, Muawh <3 
-        <br>
-        <br>
+<br>
+Lots of Love, kisses and hugs, Prakhuuu darling, Muawh <3 
+<br>
+<br>
 Your Babygirl,
 <br>
 Kikuu </p>
