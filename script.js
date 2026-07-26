@@ -608,24 +608,34 @@ Your Babygirl,
 Kikuu </p>
 `
 },
-/*
+
 {
 day:"Day 16",
 
 text:`
 <p> 
-th July 2026
+Sunday 26th July 2026
 <br>
-Dearest,
+Dear,
 <br>
-...
+Heyyy, Honeypie.. I hope you had dinner on time. Lots of hugs and Love to you.. Lots and Lots.. Take care
 <br>
-Your Love,
 <br>
-Himalika | Kikuu </p>
+This reminds me of you
+<br>
+<br>
+<img src="images/18225573488713405.jpeg" width="500" height="320">
+
+
+
+<br>
+<br>
+Yours,
+<br>
+Himalika</p>
 `
 },
-
+/*
 {
 day:"Day 17",
 
