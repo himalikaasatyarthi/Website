@@ -616,17 +616,15 @@ text:`
 <p> 
 Sunday 26th July 2026
 <br>
-Dear,
+Honeypie,
 <br>
-Heyyy, Honeypie.. I hope you had dinner on time. Lots of hugs and Love to you.. Lots and Lots.. Take care
+Heyyy, I hope you had dinner on time. Lots of hugs and Love to you.. Lots and Lots.. Take care
 <br>
 <br>
 This reminds me of you
 <br>
 <br>
-<img src="images/18225573488713405.jpeg" width="500" height="320">
-
-
+<img src="images/18225573488713405.jpeg" width="890" height="520">
 
 <br>
 <br>
