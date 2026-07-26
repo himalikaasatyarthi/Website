@@ -633,24 +633,35 @@ Yours,
 Himalika</p>
 `
 },
-/*
+
 {
 day:"Day 17",
 
 text:`
 <p> 
-th July 2026
+Monday 27th July 2026
 <br>
-Dearest,
+Dear,
 <br>
-...
+I thought that yesterday when I saw you again, I'd burst into flames.
+I thought my heart would beat so fast I'd forget how to breathe, and that my legs would be shaking.
+And they did. The moment I saw you, everything felt so real again. It was one of those moments I had imagined so many times,
+yet somehow reality was even better. 
 <br>
-Your Love,
 <br>
-Himalika | Kikuu </p>
+Seeing you smile, hearing your voice, being close to you again... I know we meet frequently
+but I long to see you every moment every second every day. I didn't realise how much I'd missed all of it until it was right in front of me again.
+For a little while, the rest of the world disappeared. It was just you.
+I don't think you'll ever fully understand how much you mean to me, or how happy seeing you yesterday made me.
+I love you. More than yesterday, less than tomorrow. 
+<br>
+<br>
+Your Cutie,
+<br>
+Himalikaa </p>
 `
 },
-
+/*
 {
 day:"Day 18",
 
