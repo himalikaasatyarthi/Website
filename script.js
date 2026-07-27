@@ -661,6 +661,22 @@ Your Cutie,
 Himalikaa </p>
 `
 },
+
+{
+    day: "",
+
+    text: `
+        <video controls width="100%" style="border-radius:15px;">
+            <source src="images/song.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+
+        <p style="margin-top:15px;">
+            ya
+        </p>
+    `
+},
+        
 /*
 {
 day:"Day 18",
