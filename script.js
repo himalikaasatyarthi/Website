@@ -677,24 +677,28 @@ Himalikaa </p>
     `
 },
         
-/*
 {
 day:"Day 18",
 
 text:`
 <p> 
-th July 2026
+Tuesday 28th July 2026
 <br>
-Dearest,
+Dear,
 <br>
-...
+I hope you had a nicee dayy pieee.. I would have loved getting the rain on my face if you were with me… goodnightt and sweet dreammsssss << 3
 <br>
-Your Love,
 <br>
-Himalika | Kikuu </p>
+I loveeeeeee Youuuuuuuuuuuuuuu my Munchkinnnnnnnnnn pumpkinnnnnn
+<br>
+<br>
+Your Cutie,
+<br>
+Himalika </p>
 `
 },
 
+/*
 {
 day:"Day 19",
 
