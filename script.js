@@ -698,24 +698,25 @@ Himalika </p>
 `
 },
 
-/*
 {
 day:"Day 19",
 
 text:`
 <p> 
-th July 2026
+Wednesday 29th July 2026
 <br>
 Dearest,
 <br>
-...
+Heyy Prakhuuuuuuuuu, I hope you had a nice day, Loveee. My eyes lit up seeing you when you sent me that picture of yours in that green shirt, 
+:) Goodnight and Take care. So much love and so many hugs << 3
+<br>
 <br>
 Your Love,
 <br>
-Himalika | Kikuu </p>
+Kikuu </p>
 `
 },
-
+/*
 {
 day:"Day 20",
 
