@@ -716,24 +716,26 @@ Your Love,
 Kikuu </p>
 `
 },
-/*
+
 {
 day:"Day 20",
 
 text:`
 <p> 
-th July 2026
+Thursday 30th July 2026
 <br>
-Dearest,
+Love,
 <br>
-...
+I hope you have a nice day Prakhuuuuuuuu babyyyyyyyy and I hope hope hope hope you haven’t skipped any meals. 
+And I know for a fact you smiled atleast once so I’m happie too. Goodnight and Take care, Lots of care. Lots of hugs.
 <br>
-Your Love,
 <br>
-Himalika | Kikuu </p>
+Your Babygirl,
+<br>
+Himalikaaaaaaa </p>
 `
 },
-
+/*
 {
 day:"Day 21",
 
