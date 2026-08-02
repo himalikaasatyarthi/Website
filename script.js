@@ -735,17 +735,19 @@ Your Babygirl,
 Himalikaaaaaaa </p>
 `
 },
-/*
+
 {
 day:"Day 21",
 
 text:`
 <p> 
-th July 2026
+Friday 31st July 2026
 <br>
 Dearest,
 <br>
-...
+heyy honiepiee... I thought of you today… I usually do everday, you make me feel warm.. 
+(literally and figuratively.. ) happiee 31st of July, 
+I’m so glad for many things << 3 goodnight and take caree
 <br>
 Your Love,
 <br>
@@ -758,15 +760,29 @@ day:"Day 22",
 
 text:`
 <p> 
-th July 2026
+Saturday 1st August 2026
 <br>
-Dearest,
+Love,
 <br>
-...
+Wohoooooooooooooooo, finally it's August! I'm so excited for this month it's my birthdayyyyy,
+You looked absolutely breathtaking in that black shirt. Uff, babyyyy, uff. Your hugs are sooooooooo tight, and I love them so much. 
+I hope my eyes told you everything today (technically yesterday)...
+I really enjoyed spending time with you. 
+Thank youuuuuuuuuuuuuu soooooo much for the jade plant. I'll try my absolute best to take care of it and won't let it die. 
+And and and... uff, baby, that journal is the cutest thing ever. 
+I can't stop looking at it or playing with all the cute little details like a two-year-old kid. It's so fascinating.
+Thank you for coming even after that last minute plan change. It meant so much to me.
+I also really loved it when you kissed my hand before leaving. That moment is going to stay with me for a long time.
+I love youuuuu sooooo much, my munchkin. 
+
+<br>
+And Darling you handwriting never bothered me.
+<br>
+<br>
 <br>
 Your Love,
 <br>
-Himalika | Kikuu </p>
+Himalikaa</p>
 `
 },
 
@@ -775,24 +791,61 @@ day:"Day 23",
 
 text:`
 <p> 
-th July 2026
+Sunday 2nd August 2026
 <br>
-Dearest,
+Dear Prakhu,
 <br>
-...
+
+"Happieeeeeeeeee Friendshipppppppppppppppppp Dayyyyyyyyyyyyyyy, Babyyyyy"
+It's been 9 years of us together first as classmates, then as friends, and now we're dating. 
+It's so, so, so special to me to have a friend who has stayed by my side for this long and is still here with me.
+I still remember us playing dodgeball, studying together, Me bringing random photo printouts to school, and then eventually
+hanging out together during 12th grade. And thanks to my amazing convincing skills... we finally ended up dating. 
+To this day, my longest phone call ever is still with you 8 hours on Google Meet, I absolutely love our Google Meet sessions, 
+spending time together after your classes, traveling in the metro, watching movies with you, and simply being with you.
+I'm sorry for all the times I couldn't talk to you and for the moments when I became cold or distant.
+I'm really sorry for that, baby. But even then, you never gave up on me.
+<br>
+<br>
+I love spending time with you. I love drawing with you, showering with you hehe, cooking with you, spending an entire day together,
+or even just going on a drive with you. Somehow, everything feels peaceful and relaxing when I'm with you.
+Thank you so much for always listening to all my random talks and for always being there whenever I need you. 
+Your nature inspires me so much. Your calm, easy going personality, the way you look at things, 
+and your perspective on life always make me want to become a better person and see the world differently too.
+I love seeing you both on and off the screen. I love every picture you send me, 
+and I never get tired of listening to your stories. You're so incredibly special to me.
+One of my favorite things about us is that I never feel like I have to change myself around you. 
+You accept me exactly the way I am, and I love that so much. My life genuinely feels incomplete without you.
+You made my 1st of August so incredibly special. 
+<br>
+<br>
+I still can't believe how understanding, thoughtful, and cuuuuuuuuuute you are. 
+My crush on my own boyfriend keeps growing every single day.
+I'm also sorry for all the times I couldn't understand you or couldn't create a comfortable space for you
+whenever you needed one. But please know that I always want to listen to you, understand you, and be there for you the way
+you're always there for me.
+I feel so blessed to have a boyfriend like you. Sometimes I genuinely wonder, 
+what did I do right to deserve someone like you, baby? I trust you with all my heart. You always make me feel safe,
+protected, and loved. You're my safe place, my comfort, and my home.
+I love you to the moon and back... and even beyond that.
+Happy Friendship Day once again, my favorite person. Thank you for being my best friend before becoming the love of my life.
+I wouldn't trade these nine years or you for anything in this world.
+I love you forever.
+<br>
 <br>
 Your Love,
 <br>
-Himalika | Kikuu </p>
+Himalika</p>
 `
 },
 
+/*
 {
 day:"Day 24",
 
 text:`
 <p> 
-th July 2026
+Monday 3rd August 2026
 <br>
 Dearest,
 <br>
