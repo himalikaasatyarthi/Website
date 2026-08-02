@@ -747,9 +747,14 @@ Dearest,
 <br>
 heyy honiepiee... I thought of you today… I usually do everday, you make me feel warm.. 
 (literally and figuratively.. ) happiee 31st of July, 
-I’m so glad for many things << 3 goodnight and take caree
+I’m so glad for many things << 3 Goodnight and Take caree
+<br>
+<br>
+I LOVE YOUUUUU PRAKHAR
+<br>
 <br>
 Your Love,
+<br>
 <br>
 Himalika | Kikuu </p>
 `
@@ -768,13 +773,15 @@ Wohoooooooooooooooo, finally it's August! I'm so excited for this month it's my 
 You looked absolutely breathtaking in that black shirt. Uff, babyyyy, uff. Your hugs are sooooooooo tight, and I love them so much. 
 I hope my eyes told you everything today (technically yesterday)...
 I really enjoyed spending time with you. 
+<br>
+<br>
 Thank youuuuuuuuuuuuuu soooooo much for the jade plant. I'll try my absolute best to take care of it and won't let it die. 
 And and and... uff, baby, that journal is the cutest thing ever. 
 I can't stop looking at it or playing with all the cute little details like a two-year-old kid. It's so fascinating.
 Thank you for coming even after that last minute plan change. It meant so much to me.
 I also really loved it when you kissed my hand before leaving. That moment is going to stay with me for a long time.
 I love youuuuu sooooo much, my munchkin. 
-
+<br>
 <br>
 And Darling you handwriting never bothered me.
 <br>
@@ -797,6 +804,7 @@ Dear Prakhu,
 <br>
 
 "Happieeeeeeeeee Friendshipppppppppppppppppp Dayyyyyyyyyyyyyyy, Babyyyyy"
+<br>
 <br>
 It's been 9 years of us together first as classmates, then as friends, and now we're dating. 
 It's so, so, so special to me to have a friend who has stayed by my side for this long and is still here with me.
