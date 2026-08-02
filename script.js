@@ -755,7 +755,6 @@ I LOVE YOUUUUU PRAKHAR
 <br>
 Your Love,
 <br>
-<br>
 Himalika | Kikuu </p>
 `
 },
@@ -856,9 +855,12 @@ text:`
 <p> 
 Monday 3rd August 2026
 <br>
-Dearest,
+Dear,
 <br>
-...
+It's my birthday today baby, I am so excited, I missed you so much 
+
+
+<br>
 <br>
 Your Love,
 <br>
